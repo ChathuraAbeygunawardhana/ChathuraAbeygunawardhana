@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine learning .**
 
-- 👨‍💻 All of my projects are available at [https://chathuraabeygunawardhana.netlify.app/](https://chathuraabeygunawardhana.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chathura.app/](https://chathura.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@chathuraabeygunawardhana](https://medium.com/@chathuraabeygunawardhana)
 
